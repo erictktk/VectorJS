@@ -1,0 +1,30 @@
+{
+    "name": "eric-vector",
+    "version": ".8",
+    "description": "An example package for a tutorial.",
+    "keywords": [
+      "vector",
+      "2D",
+      "tutorial"
+    ],
+    "homepage": "https://github.com/erictktk/Vector",
+    "bugs": {
+      "url": "https://github.com/erictktk/Vector",
+      "email": "erictktk@gmail.com"
+    },
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/erictktk/Vector.git"
+    },
+    "author": "Eric Tkachuk <erictktk@gmail.com>",
+    "license": "MIT",
+    "private": false,
+    "engines": {
+      "node": ">=6.0.0"
+    },
+    "engineStrict": false
+  }
